@@ -2,8 +2,7 @@ ingreso_de_datos= ARGV
 precio=ingreso_de_datos[0].to_f
 usuarios=ingreso_de_datos[1].to_f
 usuarioVP=ingreso_de_datos[2].to_f
-usuarioGR=ingreso_de_datos[3].to_f
-gastos=ingreso_de_datos[4].to_f
+gastos=ingreso_de_datos[3].to_f
 
 
 utilidades = (precio*usuarios)
